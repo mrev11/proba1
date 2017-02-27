@@ -1,0 +1,8 @@
+
+
+
+function main()
+    ? "Hello World!"
+
+
+
