@@ -1,3 +1,3 @@
 # proba1
-Gyakorló repó
-Próba szerencse
+Gyakorló repó.
+Próba szerencse.
